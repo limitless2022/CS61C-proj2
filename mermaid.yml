@@ -1,0 +1,2 @@
+- name: Action to Mermaid
+  uses: imjohnbo/action-to-mermaid@v1.1.0
