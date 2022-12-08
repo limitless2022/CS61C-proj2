@@ -2,8 +2,8 @@
 
 ```mermaid
 graph LR
-A[Matrix A] -- multiply --> B[Matrix B]
-B -- multiply --> C[Matrix C]
-A -- element-wise multiply --> D[Matrix D]
+A[Matrix A] -- dot multiply --> B[Matrix B]
+B -- dot multiply --> C[Matrix C]
+
 
 
